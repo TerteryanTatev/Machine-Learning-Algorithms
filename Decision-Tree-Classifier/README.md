@@ -1,5 +1,4 @@
-# Decision Tree Classifier from Scratch
-
+# Decision Tree Classifier 
 This folder contains a custom Python implementation of a Decision Tree classification algorithm, focusing on manual recursive tree traversal and structural mapping without high-level ML framework dependencies.
 
 ## Implemented Methodology
